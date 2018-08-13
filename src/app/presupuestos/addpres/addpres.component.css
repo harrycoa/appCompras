@@ -1,0 +1,15 @@
+input.ng-invalid.ng-touched {
+    border-left: 10px solid salmon;
+}
+
+input.ng-valid.ng-dirty {
+    border-left: 10px solid green;
+}
+
+.check {
+    color: forestgreen;
+}
+
+.uncheck {
+    color: firebrick;
+}
